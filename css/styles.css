@@ -8,12 +8,19 @@ h1 {
 }
 .info {
     background-color: bisque;
-    width: 50vw;
+    border: 5px solid rgb(139, 231, 139);
+    width: 15vw;
     margin: auto;
-    text-align: center;
+    text-align: left;
 }
 
-li {
-    margin:auto;
-    text:
+ul {
+    text-align: left;
+    list-style: inside;
+}
+.personal {
+    font-style: italic;
+    font-size: 3vh;
+    color: white;
+    background-color: rgb(7, 70, 7);
 }
